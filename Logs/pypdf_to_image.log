@@ -368,3 +368,72 @@
 2020-06-14 13:49:23,202 -  INFO -  Checking for Output\As-Builts 2\
 2020-06-14 13:49:23,202 -  INFO -  Saving Output\As-Builts 2\5B 2nd Flr Color.jpg
 2020-06-14 13:49:23,322 -  INFO -  Program has SUCCESSFULLY RAN
+2020-06-14 14:15:50,534 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2020-06-14 14:15:50,534 -  INFO -  Program is STARTING...
+2020-06-14 14:15:50,534 -  INFO -  Going through the input folder As-Builts 1
+2020-06-14 14:15:50,534 -  INFO -  Converting the file 4A 1st Flr B&W.pdf
+2020-06-14 14:15:51,910 -  INFO -  4A 1st Flr B&W.pdf contains 1 pages
+2020-06-14 14:15:51,910 -  INFO -  Checking for Output\As-Builts 1\
+2020-06-14 14:15:51,910 -  INFO -  Output\As-Builts 1\ does not exist, so we are creating it
+2020-06-14 14:15:51,910 -  INFO -  Saving Output\As-Builts 1\4A 1st Flr B&W.jpg
+2020-06-14 14:15:52,073 -  INFO -  Converting the file 4B 1st Flr Color.pdf
+2020-06-14 14:15:53,482 -  INFO -  4B 1st Flr Color.pdf contains 1 pages
+2020-06-14 14:15:53,482 -  INFO -  Checking for Output\As-Builts 1\
+2020-06-14 14:15:53,482 -  INFO -  Saving Output\As-Builts 1\4B 1st Flr Color.jpg
+2020-06-14 14:15:53,603 -  INFO -  Going through the input folder As-Builts 2
+2020-06-14 14:15:53,603 -  INFO -  Converting the file 5A 2nd Flr B&W.pdf
+2020-06-14 14:15:54,529 -  INFO -  5A 2nd Flr B&W.pdf contains 1 pages
+2020-06-14 14:15:54,529 -  INFO -  Checking for Output\As-Builts 2\
+2020-06-14 14:15:54,529 -  INFO -  Output\As-Builts 2\ does not exist, so we are creating it
+2020-06-14 14:15:54,529 -  INFO -  Saving Output\As-Builts 2\5A 2nd Flr B&W.jpg
+2020-06-14 14:15:54,696 -  INFO -  Converting the file 5B 2nd Flr Color.pdf
+2020-06-14 14:15:55,684 -  INFO -  5B 2nd Flr Color.pdf contains 1 pages
+2020-06-14 14:15:55,684 -  INFO -  Checking for Output\As-Builts 2\
+2020-06-14 14:15:55,684 -  INFO -  Saving Output\As-Builts 2\5B 2nd Flr Color.jpg
+2020-06-14 14:15:55,804 -  INFO -  Program has SUCCESSFULLY RAN
+2020-06-14 14:23:45,506 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2020-06-14 14:23:45,506 -  INFO -  Program is STARTING...
+2020-06-14 14:23:45,506 -  INFO -  Going through the input folder As-Builts 1
+2020-06-14 14:23:45,506 -  INFO -  Converting the file 4A 1st Flr B&W.pdf
+2020-06-14 14:23:48,191 -  INFO -  4A 1st Flr B&W.pdf contains 1 pages
+2020-06-14 14:23:48,191 -  INFO -  Checking for Output\As-Builts 1\
+2020-06-14 14:23:48,191 -  INFO -  Output\As-Builts 1\ does not exist, so we are creating it
+2020-06-14 14:23:48,191 -  INFO -  Saving Output\As-Builts 1\4A 1st Flr B&W.jpg
+2020-06-14 14:23:48,522 -  INFO -  Converting the file 4B 1st Flr Color.pdf
+2020-06-14 14:23:51,186 -  INFO -  4B 1st Flr Color.pdf contains 1 pages
+2020-06-14 14:23:51,186 -  INFO -  Checking for Output\As-Builts 1\
+2020-06-14 14:23:51,186 -  INFO -  Saving Output\As-Builts 1\4B 1st Flr Color.jpg
+2020-06-14 14:23:51,493 -  INFO -  Going through the input folder As-Builts 2
+2020-06-14 14:23:51,494 -  INFO -  Converting the file 5A 2nd Flr B&W.pdf
+2020-06-14 14:23:53,436 -  INFO -  5A 2nd Flr B&W.pdf contains 1 pages
+2020-06-14 14:23:53,436 -  INFO -  Checking for Output\As-Builts 2\
+2020-06-14 14:23:53,436 -  INFO -  Output\As-Builts 2\ does not exist, so we are creating it
+2020-06-14 14:23:53,436 -  INFO -  Saving Output\As-Builts 2\5A 2nd Flr B&W.jpg
+2020-06-14 14:23:53,786 -  INFO -  Converting the file 5B 2nd Flr Color.pdf
+2020-06-14 14:23:55,781 -  INFO -  5B 2nd Flr Color.pdf contains 1 pages
+2020-06-14 14:23:55,781 -  INFO -  Checking for Output\As-Builts 2\
+2020-06-14 14:23:55,781 -  INFO -  Saving Output\As-Builts 2\5B 2nd Flr Color.jpg
+2020-06-14 14:23:56,085 -  INFO -  Program has SUCCESSFULLY RAN
+2020-06-14 14:25:25,304 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2020-06-14 14:25:25,305 -  INFO -  Program is STARTING...
+2020-06-14 14:25:25,305 -  INFO -  Going through the input folder As-Builts 1
+2020-06-14 14:25:25,305 -  INFO -  Converting the file 4A 1st Flr B&W.pdf
+2020-06-14 14:25:33,301 -  INFO -  4A 1st Flr B&W.pdf contains 1 pages
+2020-06-14 14:25:33,301 -  INFO -  Checking for Output\As-Builts 1\
+2020-06-14 14:25:33,301 -  INFO -  Output\As-Builts 1\ does not exist, so we are creating it
+2020-06-14 14:25:33,302 -  INFO -  Saving Output\As-Builts 1\4A 1st Flr B&W.jpg
+2020-06-14 14:25:34,482 -  INFO -  Converting the file 4B 1st Flr Color.pdf
+2020-06-14 14:25:42,127 -  INFO -  4B 1st Flr Color.pdf contains 1 pages
+2020-06-14 14:25:42,127 -  INFO -  Checking for Output\As-Builts 1\
+2020-06-14 14:25:42,127 -  INFO -  Saving Output\As-Builts 1\4B 1st Flr Color.jpg
+2020-06-14 14:25:43,257 -  INFO -  Going through the input folder As-Builts 2
+2020-06-14 14:25:43,257 -  INFO -  Converting the file 5A 2nd Flr B&W.pdf
+2020-06-14 14:25:49,971 -  INFO -  5A 2nd Flr B&W.pdf contains 1 pages
+2020-06-14 14:25:49,971 -  INFO -  Checking for Output\As-Builts 2\
+2020-06-14 14:25:49,971 -  INFO -  Output\As-Builts 2\ does not exist, so we are creating it
+2020-06-14 14:25:49,971 -  INFO -  Saving Output\As-Builts 2\5A 2nd Flr B&W.jpg
+2020-06-14 14:25:51,210 -  INFO -  Converting the file 5B 2nd Flr Color.pdf
+2020-06-14 14:25:57,976 -  INFO -  5B 2nd Flr Color.pdf contains 1 pages
+2020-06-14 14:25:57,976 -  INFO -  Checking for Output\As-Builts 2\
+2020-06-14 14:25:57,976 -  INFO -  Saving Output\As-Builts 2\5B 2nd Flr Color.jpg
+2020-06-14 14:25:59,083 -  INFO -  Program has SUCCESSFULLY RAN

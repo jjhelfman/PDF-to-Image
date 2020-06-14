@@ -14,8 +14,7 @@
 # ├── Logs/
 #     └── pypdf_to_image.log
 
-
-from __future__ import print_function
+# Import modules
 from wand.image import Image
 import os
 import re
@@ -45,8 +44,9 @@ def convert(subfolder, filepdf):
 	# Try to convert pdf to image,
 	# other wise handle the error
 	try:
-		# Create Image object, using resolution of 300
-		with Image(filename=f"Input\\{subfolder}\\{filepdf}", resolution=300) as img:
+		# Create Image object, using resolution of 1000, 
+		# 300 maay be used for lower quality
+		with Image(filename=f"Input\\{subfolder}\\{filepdf}", resolution=1000) as img:
             # Define the output path
 			out_path = f"Output\\{subfolder}\\"
             # Define the file name, without extension
