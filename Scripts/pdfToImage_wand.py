@@ -1,7 +1,6 @@
-# from https://gist.github.com/jimmyromanticdevil/691e97ce22f7cd43d6a9d54305344587
+# Adapted from https://gist.github.com/jimmyromanticdevil/691e97ce22f7cd43d6a9d54305344587
 
-# Folder structure:
-# PDF to Image
+# Folder structure of PDF to Image:
 # ├── Scripts/
 # |   └── pdfToImage_wand.py
 # |
@@ -11,6 +10,10 @@
 # |   └── ...
 # |
 # ├── Output/
+# |
+# ├── Logs/
+#     └── pypdf_to_image.log
+
 
 from __future__ import print_function
 from wand.image import Image
