@@ -1,0 +1,26 @@
+ARCHIVE/
+ArcGIS Pro/
+pytesseract/
+.vscode/
+
+__pycache__/
+*.pyc
+
+#any folder with env in it
+**/*env*/
+
+*.zip
+
+*.ipynb_checkpoints/
+*.ipynb
+
+*.svg
+
+*.DS_Store
+
+# *.pdf
+
+*.pptx
+
+
+
