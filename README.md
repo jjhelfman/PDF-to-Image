@@ -6,12 +6,12 @@
 
 1. To use this script, you need to replicate the following folder structure (by cloning this):
 
-    - PDF to Image/
-        - Scripts > pdfToImage_wand.bat, pdfToImage_wand.py
-        - Input/
-            - subfolder1, subfolder 2... with pdfs
-        - Output/
-        - Logs
+    - PDF to Image//
+        - Scripts// > pdfToImage_wand.bat, pdfToImage_wand.py
+        - Input//
+            - subfolder1//, subfolder 2//... each containing pdfs
+        - Output//
+        - Logs//
             - pypdf_to_image.log
 
 2. Install the required dependencies/modules via pip install -r requirements.txt
