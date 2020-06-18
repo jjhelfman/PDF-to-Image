@@ -44,10 +44,11 @@ def convert(subfolder, filepdf):
 	# Try to convert pdf to image,
 	# other wise handle the error
 	try:
-		# Create Image object, using resolution of 1000. 
+		# Create Image object, using resolution of 750. 
 		# 1000 res : ~ 10 sec per pg
+		# 750 res: ~ 5 sec per pg
 		# 300 res : ~ 2 sec per pg (but much lower quality)
-		with Image(filename=f"Input\\{subfolder}\\{filepdf}", resolution=1000) as img:
+		with Image(filename=f"Input\\{subfolder}\\{filepdf}", resolution=750) as img:
             # Define the output path
 			out_path = f"Output\\{subfolder}\\"
             # Define the file name, without extension
@@ -100,12 +101,12 @@ def findToConvert(in_folder):
 # Use conditional to preventing running from module
 # and to run in CLI
 if __name__ == '__main__':
-	logging.info(f"Program is STARTING...")
+	logging.info(f"Wand program is STARTING...")
 
 	inputFolder = "Input\\"
 	findToConvert(inputFolder)
 
-	logging.info(f"Program has SUCCESSFULLY RAN")
+	logging.info(f"Wand program has SUCCESSFULLY RAN")
 	
 
 
