@@ -1,19 +1,5 @@
 # Adapted from https://gist.github.com/jimmyromanticdevil/691e97ce22f7cd43d6a9d54305344587
 
-# Folder structure of PDF to Image:
-# ├── Scripts/
-# |   └── pdfToImage_wand.py
-# |
-# ├── Input/
-# |   ├── subfolder1 with pdfs
-# |   ├── subfolder2 with pdfs
-# |   └── ...
-# |
-# ├── Output/
-# |
-# ├── Logs/
-#     └── pypdf_to_image.log
-
 # Import modules
 from wand.image import Image
 import os

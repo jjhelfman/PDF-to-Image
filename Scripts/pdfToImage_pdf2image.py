@@ -1,17 +1,3 @@
-# Folder structure of PDF to Image:
-# ├── Scripts/
-# |   └── pdfToImage_pdf2image.py
-# |
-# ├── Input/
-# |   ├── subfolder1 with pdfs
-# |   ├── subfolder2 with pdfs
-# |   └── ...
-# |
-# ├── Output/
-# |
-# ├── Logs/
-#     └── pypdf_to_image.log
-
 # Import modules
 from pdf2image import convert_from_path, convert_from_bytes
 from pdf2image.exceptions import (
