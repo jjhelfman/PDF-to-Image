@@ -21,9 +21,13 @@ from pdf2image.exceptions import (
 import os
 import re
 import logging
+from PIL import Image # Python Imaging Library. Pillow is just a repackaged, updated version of PIL, because the original maintainers of the PIL stopped working on it a long time ago.
+
+Image.MAX_IMAGE_PIXELS = None
 
 # Define vars
-popplerPath = f"C:\\Program Files\\poppler-0.68.0\\bin"
+# popplerPath = f"C:\\Program Files\\poppler-0.68.0\\bin"
+popplerPath = f"C:\\Program Files\\poppler-21.11.0\\Library\\bin"
 inputFolder = f"Input"
 imageFormat = f"png"
 
@@ -71,7 +75,8 @@ def convert(inputFolder, subfolder, filepdf):
 		# Save the images by looping over the list
 		for image in enumerate(images):
 			fname = f"{file_name}" + f".{imageFormat}"
-			image.save(f'{out_path}\\{fname}', f"{imageFormat}")
+			# print(image)
+			image[1].save(f'{out_path}\\{fname}', f"{imageFormat}")
 
 	except Exception as err:
         # Log errors

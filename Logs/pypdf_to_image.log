@@ -187,3 +187,281 @@
 2020-06-17 21:53:54,229 -  INFO -  '5B 2nd Flr Color' contains 1 page(s)
 2020-06-17 21:53:54,229 -  INFO -  Checking for 'Output\As-Builts 2\'
 2020-06-17 21:53:56,141 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-03 08:47:48,099 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 08:47:48,099 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 08:47:48,099 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-03 08:51:23,135 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 08:51:23,135 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 08:51:23,135 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-03 08:54:31,161 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 08:54:31,161 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 08:54:31,161 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 08:54:31,161 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 08:54:31,353 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,353 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,353 -  INFO -  'Output\HMPs_Topos\' does not exist, so it is being created
+2021-12-03 08:54:31,354 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 08:54:31,410 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,410 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,410 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 08:54:31,466 -  INFO -  'CA_Del_Mar_20180827_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,466 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,466 -  INFO -  Converting the file 'CA_Del_Mar_OE_W_20180827_TM_geo.pdf'
+2021-12-03 08:54:31,520 -  INFO -  'CA_Del_Mar_OE_W_20180827_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,520 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,521 -  INFO -  Converting the file 'CA_El_Cajon_20180904_TM_geo.pdf'
+2021-12-03 08:54:31,577 -  INFO -  'CA_El_Cajon_20180904_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,577 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,577 -  INFO -  Converting the file 'CA_Encinitas_20180913_TM_geo.pdf'
+2021-12-03 08:54:31,637 -  INFO -  'CA_Encinitas_20180913_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,637 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,637 -  INFO -  Converting the file 'CA_Escondido_20180907_TM_geo.pdf'
+2021-12-03 08:54:31,692 -  INFO -  'CA_Escondido_20180907_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,692 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,692 -  INFO -  Converting the file 'CA_Las_Pulgas_Canyon_20180907_TM_geo.pdf'
+2021-12-03 08:54:31,748 -  INFO -  'CA_Las_Pulgas_Canyon_20180907_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,748 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,748 -  INFO -  Converting the file 'CA_Morro_Hill_20180907_TM_geo.pdf'
+2021-12-03 08:54:31,805 -  INFO -  'CA_Morro_Hill_20180907_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,805 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,805 -  INFO -  Converting the file 'CA_Oceanside_20180907_TM_geo.pdf'
+2021-12-03 08:54:31,866 -  INFO -  'CA_Oceanside_20180907_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,866 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,866 -  INFO -  Converting the file 'CA_Rancho_Santa_Fe_20180913_TM_geo.pdf'
+2021-12-03 08:54:31,933 -  INFO -  'CA_Rancho_Santa_Fe_20180913_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,933 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,933 -  INFO -  Converting the file 'CA_Rodriguez_Mountain_20180828_TM_geo.pdf'
+2021-12-03 08:54:31,992 -  INFO -  'CA_Rodriguez_Mountain_20180828_TM_geo' contains 0 page(s)
+2021-12-03 08:54:31,993 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:31,993 -  INFO -  Converting the file 'CA_San_Luis_Rey_20180907_TM_geo.pdf'
+2021-12-03 08:54:32,056 -  INFO -  'CA_San_Luis_Rey_20180907_TM_geo' contains 0 page(s)
+2021-12-03 08:54:32,056 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:32,056 -  INFO -  Converting the file 'CA_San_Pasqual_20180828_TM_geo.pdf'
+2021-12-03 08:54:32,118 -  INFO -  'CA_San_Pasqual_20180828_TM_geo' contains 0 page(s)
+2021-12-03 08:54:32,118 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 08:54:32,118 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-03 09:22:24,966 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 09:22:24,966 -  INFO -  Wand program is STARTING...
+2021-12-03 09:22:24,966 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 09:22:24,966 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 09:23:18,042 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:23:18,042 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:23:18,042 -  INFO -  Saving 'Output\HMPs_Topos\CA_Borrego_Sink_20180828_TM_geo.jpg'
+2021-12-03 09:23:23,714 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 09:24:17,915 -  INFO -  'CA_Clark_Lake_20180828_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:24:17,915 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:24:17,915 -  INFO -  Saving 'Output\HMPs_Topos\CA_Clark_Lake_20180828_TM_geo.jpg'
+2021-12-03 09:24:23,446 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 09:25:42,113 -  INFO -  'CA_Del_Mar_20180827_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:25:42,113 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:25:42,113 -  INFO -  Saving 'Output\HMPs_Topos\CA_Del_Mar_20180827_TM_geo.jpg'
+2021-12-03 09:25:49,040 -  INFO -  Converting the file 'CA_Del_Mar_OE_W_20180827_TM_geo.pdf'
+2021-12-03 09:26:36,173 -  INFO -  'CA_Del_Mar_OE_W_20180827_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:26:36,173 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:26:36,173 -  INFO -  Saving 'Output\HMPs_Topos\CA_Del_Mar_OE_W_20180827_TM_geo.jpg'
+2021-12-03 09:26:40,852 -  INFO -  Converting the file 'CA_El_Cajon_20180904_TM_geo.pdf'
+2021-12-03 09:27:58,107 -  INFO -  'CA_El_Cajon_20180904_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:27:58,108 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:27:58,108 -  INFO -  Saving 'Output\HMPs_Topos\CA_El_Cajon_20180904_TM_geo.jpg'
+2021-12-03 09:28:04,867 -  INFO -  Converting the file 'CA_Encinitas_20180913_TM_geo.pdf'
+2021-12-03 09:28:59,475 -  INFO -  'CA_Encinitas_20180913_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:28:59,475 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:28:59,475 -  INFO -  Saving 'Output\HMPs_Topos\CA_Encinitas_20180913_TM_geo.jpg'
+2021-12-03 09:29:04,848 -  INFO -  Converting the file 'CA_Escondido_20180907_TM_geo.pdf'
+2021-12-03 09:30:58,018 -  INFO -  'CA_Escondido_20180907_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:30:58,019 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:30:58,019 -  INFO -  Saving 'Output\HMPs_Topos\CA_Escondido_20180907_TM_geo.jpg'
+2021-12-03 09:31:05,006 -  INFO -  Converting the file 'CA_Las_Pulgas_Canyon_20180907_TM_geo.pdf'
+2021-12-03 09:32:16,238 -  INFO -  'CA_Las_Pulgas_Canyon_20180907_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:32:16,238 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:32:16,238 -  INFO -  Saving 'Output\HMPs_Topos\CA_Las_Pulgas_Canyon_20180907_TM_geo.jpg'
+2021-12-03 09:32:23,357 -  INFO -  Converting the file 'CA_Morro_Hill_20180907_TM_geo.pdf'
+2021-12-03 09:33:43,227 -  INFO -  'CA_Morro_Hill_20180907_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:33:43,228 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:33:43,228 -  INFO -  Saving 'Output\HMPs_Topos\CA_Morro_Hill_20180907_TM_geo.jpg'
+2021-12-03 09:33:49,669 -  INFO -  Converting the file 'CA_Oceanside_20180907_TM_geo.pdf'
+2021-12-03 09:34:34,856 -  INFO -  'CA_Oceanside_20180907_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:34:34,857 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:34:34,857 -  INFO -  Saving 'Output\HMPs_Topos\CA_Oceanside_20180907_TM_geo.jpg'
+2021-12-03 09:34:39,108 -  INFO -  Converting the file 'CA_Rancho_Santa_Fe_20180913_TM_geo.pdf'
+2021-12-03 09:35:59,295 -  INFO -  'CA_Rancho_Santa_Fe_20180913_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:35:59,296 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:35:59,296 -  INFO -  Saving 'Output\HMPs_Topos\CA_Rancho_Santa_Fe_20180913_TM_geo.jpg'
+2021-12-03 09:36:06,584 -  INFO -  Converting the file 'CA_Rodriguez_Mountain_20180828_TM_geo.pdf'
+2021-12-03 09:37:25,474 -  INFO -  'CA_Rodriguez_Mountain_20180828_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:37:25,474 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:37:25,474 -  INFO -  Saving 'Output\HMPs_Topos\CA_Rodriguez_Mountain_20180828_TM_geo.jpg'
+2021-12-03 09:37:33,052 -  INFO -  Converting the file 'CA_San_Luis_Rey_20180907_TM_geo.pdf'
+2021-12-03 09:39:05,668 -  INFO -  'CA_San_Luis_Rey_20180907_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:39:05,668 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:39:05,668 -  INFO -  Saving 'Output\HMPs_Topos\CA_San_Luis_Rey_20180907_TM_geo.jpg'
+2021-12-03 09:39:11,467 -  INFO -  Converting the file 'CA_San_Pasqual_20180828_TM_geo.pdf'
+2021-12-03 09:40:29,634 -  INFO -  'CA_San_Pasqual_20180828_TM_geo.pdf' contains 1 page(s)
+2021-12-03 09:40:29,635 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 09:40:29,635 -  INFO -  Saving 'Output\HMPs_Topos\CA_San_Pasqual_20180828_TM_geo.jpg'
+2021-12-03 09:40:36,938 -  INFO -  Wand program has SUCCESSFULLY RAN
+2021-12-03 12:14:31,949 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 12:14:31,949 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 12:14:31,949 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 12:14:31,949 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 12:14:32,207 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,207 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,207 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 12:14:32,340 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,340 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,341 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 12:14:32,403 -  INFO -  'CA_Del_Mar_20180827_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,403 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,403 -  INFO -  Converting the file 'CA_Del_Mar_OE_W_20180827_TM_geo.pdf'
+2021-12-03 12:14:32,475 -  INFO -  'CA_Del_Mar_OE_W_20180827_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,475 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,475 -  INFO -  Converting the file 'CA_El_Cajon_20180904_TM_geo.pdf'
+2021-12-03 12:14:32,539 -  INFO -  'CA_El_Cajon_20180904_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,539 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,539 -  INFO -  Converting the file 'CA_Encinitas_20180913_TM_geo.pdf'
+2021-12-03 12:14:32,601 -  INFO -  'CA_Encinitas_20180913_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,602 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,602 -  INFO -  Converting the file 'CA_Escondido_20180907_TM_geo.pdf'
+2021-12-03 12:14:32,664 -  INFO -  'CA_Escondido_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,664 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,664 -  INFO -  Converting the file 'CA_Las_Pulgas_Canyon_20180907_TM_geo.pdf'
+2021-12-03 12:14:32,725 -  INFO -  'CA_Las_Pulgas_Canyon_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,725 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,725 -  INFO -  Converting the file 'CA_Morro_Hill_20180907_TM_geo.pdf'
+2021-12-03 12:14:32,786 -  INFO -  'CA_Morro_Hill_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,786 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,786 -  INFO -  Converting the file 'CA_Oceanside_20180907_TM_geo.pdf'
+2021-12-03 12:14:32,846 -  INFO -  'CA_Oceanside_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,846 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,846 -  INFO -  Converting the file 'CA_Rancho_Santa_Fe_20180913_TM_geo.pdf'
+2021-12-03 12:14:32,907 -  INFO -  'CA_Rancho_Santa_Fe_20180913_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,907 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,907 -  INFO -  Converting the file 'CA_Rodriguez_Mountain_20180828_TM_geo.pdf'
+2021-12-03 12:14:32,968 -  INFO -  'CA_Rodriguez_Mountain_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:14:32,968 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:32,969 -  INFO -  Converting the file 'CA_San_Luis_Rey_20180907_TM_geo.pdf'
+2021-12-03 12:14:33,030 -  INFO -  'CA_San_Luis_Rey_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:14:33,030 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:33,031 -  INFO -  Converting the file 'CA_San_Pasqual_20180828_TM_geo.pdf'
+2021-12-03 12:14:33,092 -  INFO -  'CA_San_Pasqual_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:14:33,092 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:14:33,092 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-03 12:20:41,590 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 12:20:41,590 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 12:20:41,590 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 12:20:41,590 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 12:20:41,646 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,647 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,647 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 12:20:41,699 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,699 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,699 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 12:20:41,752 -  INFO -  'CA_Del_Mar_20180827_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,752 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,752 -  INFO -  Converting the file 'CA_Del_Mar_OE_W_20180827_TM_geo.pdf'
+2021-12-03 12:20:41,805 -  INFO -  'CA_Del_Mar_OE_W_20180827_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,806 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,806 -  INFO -  Converting the file 'CA_El_Cajon_20180904_TM_geo.pdf'
+2021-12-03 12:20:41,859 -  INFO -  'CA_El_Cajon_20180904_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,859 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,860 -  INFO -  Converting the file 'CA_Encinitas_20180913_TM_geo.pdf'
+2021-12-03 12:20:41,913 -  INFO -  'CA_Encinitas_20180913_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,913 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,913 -  INFO -  Converting the file 'CA_Escondido_20180907_TM_geo.pdf'
+2021-12-03 12:20:41,966 -  INFO -  'CA_Escondido_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:20:41,967 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:41,967 -  INFO -  Converting the file 'CA_Las_Pulgas_Canyon_20180907_TM_geo.pdf'
+2021-12-03 12:20:42,020 -  INFO -  'CA_Las_Pulgas_Canyon_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,020 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,020 -  INFO -  Converting the file 'CA_Morro_Hill_20180907_TM_geo.pdf'
+2021-12-03 12:20:42,074 -  INFO -  'CA_Morro_Hill_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,074 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,074 -  INFO -  Converting the file 'CA_Oceanside_20180907_TM_geo.pdf'
+2021-12-03 12:20:42,127 -  INFO -  'CA_Oceanside_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,127 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,127 -  INFO -  Converting the file 'CA_Rancho_Santa_Fe_20180913_TM_geo.pdf'
+2021-12-03 12:20:42,181 -  INFO -  'CA_Rancho_Santa_Fe_20180913_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,181 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,182 -  INFO -  Converting the file 'CA_Rodriguez_Mountain_20180828_TM_geo.pdf'
+2021-12-03 12:20:42,236 -  INFO -  'CA_Rodriguez_Mountain_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,236 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,236 -  INFO -  Converting the file 'CA_San_Luis_Rey_20180907_TM_geo.pdf'
+2021-12-03 12:20:42,294 -  INFO -  'CA_San_Luis_Rey_20180907_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,294 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,294 -  INFO -  Converting the file 'CA_San_Pasqual_20180828_TM_geo.pdf'
+2021-12-03 12:20:42,351 -  INFO -  'CA_San_Pasqual_20180828_TM_geo' contains 0 page(s)
+2021-12-03 12:20:42,351 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:20:42,351 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-03 12:28:53,111 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 12:28:53,111 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 12:28:53,111 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 12:28:53,111 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 12:29:38,135 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:29:38,135 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:29:38,135 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:29:38,135 -  ERROR -  Image size (391500000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2021-12-03 12:29:38,137 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 12:30:26,487 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:30:26,487 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:30:26,487 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:30:26,487 -  ERROR -  Image size (391500000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2021-12-03 12:30:26,489 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 12:31:48,401 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:31:48,401 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:31:48,401 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:31:48,401 -  ERROR -  Image size (391500000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2021-12-03 12:31:48,405 -  INFO -  Converting the file 'CA_Del_Mar_OE_W_20180827_TM_geo.pdf'
+2021-12-03 12:32:24,840 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:32:24,840 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:32:24,840 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:32:24,840 -  ERROR -  Image size (391500000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2021-12-03 12:32:24,841 -  INFO -  Converting the file 'CA_El_Cajon_20180904_TM_geo.pdf'
+2021-12-03 12:39:05,144 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 12:39:05,145 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 12:39:05,145 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 12:39:05,145 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 12:39:49,282 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:39:49,282 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:39:49,283 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:39:49,283 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo' contains 1 page(s)
+2021-12-03 12:39:49,283 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:39:49,283 -  ERROR -  'tuple' object has no attribute 'save'
+2021-12-03 12:39:49,284 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 12:40:36,613 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:40:36,613 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:40:36,613 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:40:36,613 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 1 page(s)
+2021-12-03 12:40:36,613 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:40:36,614 -  ERROR -  'tuple' object has no attribute 'save'
+2021-12-03 12:40:36,615 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 12:41:57,800 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:41:57,800 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:41:57,800 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:41:57,800 -  INFO -  'CA_Del_Mar_20180827_TM_geo' contains 1 page(s)
+2021-12-03 12:41:57,800 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:41:57,800 -  ERROR -  'tuple' object has no attribute 'save'
+2021-12-03 12:41:57,804 -  INFO -  Converting the file 'CA_Del_Mar_OE_W_20180827_TM_geo.pdf'
+2021-12-03 12:42:36,046 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:42:36,046 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:42:36,046 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:42:36,047 -  INFO -  'CA_Del_Mar_OE_W_20180827_TM_geo' contains 1 page(s)
+2021-12-03 12:42:36,047 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:42:36,047 -  ERROR -  'tuple' object has no attribute 'save'
+2021-12-03 12:42:36,048 -  INFO -  Converting the file 'CA_El_Cajon_20180904_TM_geo.pdf'
+2021-12-03 12:43:08,538 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 12:45:50,754 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 12:45:50,754 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 12:45:50,755 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 12:45:50,755 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 12:46:36,011 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:46:36,011 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:46:36,011 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:46:36,011 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo' contains 1 page(s)
+2021-12-03 12:46:36,011 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:46:52,695 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 12:47:41,852 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 12:47:41,853 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 12:47:41,853 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 12:47:41,853 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 1 page(s)
+2021-12-03 12:47:41,853 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 12:47:58,382 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'

@@ -1,4 +1,6 @@
 ARCHIVE/
+NOTES/
+Input_OLD/
 ArcGIS Pro/
 pytesseract/
 .vscode/
@@ -21,6 +23,8 @@ __pycache__/
 # *.pdf
 
 *.pptx
+
+*.pdf
 
 
 
