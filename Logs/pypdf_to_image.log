@@ -465,3 +465,19 @@
 2021-12-03 12:47:41,853 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 1 page(s)
 2021-12-03 12:47:41,853 -  INFO -  Checking for 'Output\HMPs_Topos\'
 2021-12-03 12:47:58,382 -  INFO -  Converting the file 'CA_Del_Mar_20180827_TM_geo.pdf'
+2021-12-03 18:20:56,858 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-03 18:20:56,858 -  INFO -  Pdf2image program is STARTING...
+2021-12-03 18:20:56,858 -  INFO -  Going through the input folder 'HMPs_Topos'
+2021-12-03 18:20:56,858 -  INFO -  Converting the file 'CA_Borrego_Sink_20180828_TM_geo.pdf'
+2021-12-03 18:21:46,310 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 18:21:46,311 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 18:21:46,311 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 18:21:46,311 -  INFO -  'CA_Borrego_Sink_20180828_TM_geo' contains 1 page(s)
+2021-12-03 18:21:46,311 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 18:22:02,590 -  INFO -  Converting the file 'CA_Clark_Lake_20180828_TM_geo.pdf'
+2021-12-03 18:22:50,381 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-03 18:22:50,381 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-03 18:22:50,381 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-03 18:22:50,381 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 1 page(s)
+2021-12-03 18:22:50,381 -  INFO -  Checking for 'Output\HMPs_Topos\'
+2021-12-03 18:23:06,671 -  INFO -  Pdf2image program has SUCCESSFULLY RAN

@@ -16,6 +16,8 @@
 
 2. Run "pdfToImage_wand.py" by double clicking or running from an IDE. If desired results cannot be achieved here, try running "pdfToImage_pdf2image.py", which converts PDFs to PNG. 
 
+3. If only parts of an image are needed, the image can be cropped using a software like Paint 3D. 
+
 ## Cloning and Set-Up 
 
 1. Folder structure of PDF to Image:
