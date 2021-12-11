@@ -24,27 +24,27 @@
 
     ├── Scripts/
     <br>
-    |   └── pdfToImage_wand.py and pdfToImage_pdf2image.py (for PNG)
+           └── pdfToImage_wand.py and pdfToImage_pdf2image.py (for PNG)
     <br>
     ├── Input/
     <br>
-    |   ├── subfolder1 with pdfs
+           ├── subfolder1 with pdfs
     <br>
-    |   ├── subfolder2 with pdfs
+           ├── subfolder2 with pdfs
     <br>
-    |   └── ...
+           └── ...
     <br>
     ├── Output/
     <br>
-    |   ├── subfolder1 with images
+           ├── subfolder1 with images
     <br>
-    |   ├── subfolder2 with images
+           ├── subfolder2 with images
     <br>
-    |   └── ...
+           └── ...
     <br>
     ├── Logs/
     <br>
-        └── pypdf_to_image.log 
+            └── pypdf_to_image.log 
 
 2. Install the required dependencies via `pip install -r requirements.txt`
     - This requirements file was generated using pipreqs (https://pypi.org/project/pipreqs/)
