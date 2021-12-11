@@ -23,19 +23,27 @@
 1. Folder structure of PDF to Image:
 
     ├── Scripts/
+    <br>
     |   └── pdfToImage_wand.py and pdfToImage_pdf2image.py (for PNG)
-    |
+    <br>
     ├── Input/
+    <br>
     |   ├── subfolder1 with pdfs
+    <br>
     |   ├── subfolder2 with pdfs
+    <br>
     |   └── ...
-    |
+    <br>
     ├── Output/
+    <br>
     |   ├── subfolder1 with images
+    <br>
     |   ├── subfolder2 with images
+    <br>
     |   └── ...
-    |
+    <br>
     ├── Logs/
+    <br>
         └── pypdf_to_image.log 
 
 2. Install the required dependencies via `pip install -r requirements.txt`

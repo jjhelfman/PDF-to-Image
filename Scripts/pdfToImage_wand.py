@@ -93,18 +93,3 @@ if __name__ == '__main__':
 	findToConvert(inputFolder)
 
 	logging.info(f"Wand program has SUCCESSFULLY RAN")
-	
-
-
-
-
-					
-          
-
-
-
-
-
-#   file = "As-Builts 1\\4B 1st Flr Color.pdf"
-  # convert("C:\\Users\\User\\Desktop\\GIS\\PDF to Image\\As-Builts 1\\4A 1st Flr B&W.pdf")
-  # convert(file)
