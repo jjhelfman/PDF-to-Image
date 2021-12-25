@@ -77,21 +77,25 @@ def findToConvert(in_folder):
 	Returns:
 		N/A
 	'''
-	# Walk through all folders in the Input folder
-	for foldername, subfolders, _ in os.walk(in_folder):
-		
-		# Loop through each input subfolder
-		for subfolder in subfolders:
-			logging.info(f"Going through the input folder '{subfolder}'")
-			# Create a list of files in each subfolder
-			files = os.listdir(f"{foldername}\\{subfolder}")
+	try:
+		# Walk through all folders in the Input folder
+		for foldername, subfolders, _ in os.walk(in_folder):
 			
-			# Loop through each file
-			for file in files:
-				# and if the file is a pdf, call convert()
-				if file.endswith('.pdf'):
-					logging.info(f"Converting the file '{file}'")
-					convert(inputFolder, subfolder, file)
+			# Loop through each input subfolder
+			for subfolder in subfolders:
+				logging.info(f"Going through the input folder '{subfolder}'")
+				# Create a list of files in each subfolder
+				files = os.listdir(f"{foldername}\\{subfolder}")
+				
+				# Loop through each file
+				for file in files:
+					# and if the file is a pdf, call convert()
+					if file.endswith('.pdf'):
+						logging.info(f"Converting the file '{file}'")
+						convert(inputFolder, subfolder, file)
+	except Exception as err:
+        # Log errors
+		logging.error(err)
 
 # Main block
 # Use conditional to preventing running from module
@@ -99,4 +103,4 @@ def findToConvert(in_folder):
 if __name__ == '__main__':
 	logging.info(f"Pdf2image program is STARTING...")
 	findToConvert(inputFolder)
-	logging.info(f"Pdf2image program has SUCCESSFULLY RAN")
+	logging.info(f"Pdf2image program has RAN")

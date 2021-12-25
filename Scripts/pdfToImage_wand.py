@@ -67,21 +67,25 @@ def findToConvert(in_folder):
 	Returns:
 		N/A
 	'''
-	# Walk through all folders in the Input folder
-	for foldername, subfolders, _ in os.walk(in_folder):
-		
-		# Loop through each input subfolder
-		for subfolder in subfolders:
-			logging.info(f"Going through the input folder '{subfolder}'")
-			# Create a list of files in each subfolder
-			files = os.listdir(f"{foldername}\\{subfolder}")
+	try: 
+		# Walk through all folders in the Input folder
+		for foldername, subfolders, _ in os.walk(in_folder):
 			
-			# Loop through each file
-			for file in files:
-				# and if the file is a pdf, call convert()
-				if file.endswith('.pdf'):
-					logging.info(f"Converting the file '{file}'")
-					convert(subfolder, file)
+			# Loop through each input subfolder
+			for subfolder in subfolders:
+				logging.info(f"Going through the input folder '{subfolder}'")
+				# Create a list of files in each subfolder
+				files = os.listdir(f"{foldername}\\{subfolder}")
+				
+				# Loop through each file
+				for file in files:
+					# and if the file is a pdf, call convert()
+					if file.endswith('.pdf'):
+						logging.info(f"Converting the file '{file}'")
+						convert(subfolder, file)
+	except Exception as err:
+        # Log errors
+		logging.error(err)
 
 # Main block
 # Use conditional to preventing running from module
@@ -92,4 +96,4 @@ if __name__ == '__main__':
 	inputFolder = "Input\\"
 	findToConvert(inputFolder)
 
-	logging.info(f"Wand program has SUCCESSFULLY RAN")
+	logging.info(f"Wand program has RAN")
