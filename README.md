@@ -12,7 +12,7 @@
 
 ## Instructions
 
-1. Place the PDFs in an appropriately named folder in the directory, "\PDF to Image\Input". 
+1. Place the PDFs in appropriately named folder(s) in the directory, "\PDF to Image\Input". 
 
 2. Run "pdfToImage_wand.py" by double clicking or running from an IDE. If desired results cannot be achieved here, try running "pdfToImage_pdf2image.py", which converts PDFs to PNG. 
 
