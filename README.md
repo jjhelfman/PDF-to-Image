@@ -1,4 +1,9 @@
 # PDF to Image 
+
+## Change Log
+
+- **12/24/2021**: Successfully tested using Python 3.7.4
+
 ## This app has two different types of scripts:
 
 1. pdfToImage_wand.py uses the wand module, is currently set to convert to JPGs, and has the following resolution specs (the resolution parameter is passed to the Image object)
@@ -64,3 +69,4 @@ And follow conventions/best practices according to the development team. For ins
 2. pdfToImage_wand.py:
     - If the output is not as expected: adjust the Image() object's parameters in the Python script as needed
     - API/docs: http://docs.wand-py.org/en/0.6.1/wand/image.html)
+
