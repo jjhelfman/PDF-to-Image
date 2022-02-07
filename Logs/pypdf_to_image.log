@@ -481,3 +481,58 @@
 2021-12-03 18:22:50,381 -  INFO -  'CA_Clark_Lake_20180828_TM_geo' contains 1 page(s)
 2021-12-03 18:22:50,381 -  INFO -  Checking for 'Output\HMPs_Topos\'
 2021-12-03 18:23:06,671 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 16:03:25,066 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 16:03:25,067 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 16:03:25,067 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 16:04:38,904 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 16:04:38,904 -  INFO -  Wand program is STARTING...
+2021-12-24 16:04:38,905 -  INFO -  Wand program has SUCCESSFULLY RAN
+2021-12-24 16:04:41,114 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 16:04:41,114 -  INFO -  Wand program is STARTING...
+2021-12-24 16:04:41,114 -  INFO -  Wand program has SUCCESSFULLY RAN
+2021-12-24 16:04:55,118 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 16:04:55,118 -  INFO -  Wand program is STARTING...
+2021-12-24 16:04:55,118 -  INFO -  Wand program has SUCCESSFULLY RAN
+2021-12-24 20:42:01,886 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:42:01,887 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 20:42:01,887 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 20:42:05,911 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:42:05,911 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 20:42:05,911 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 20:43:54,703 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:43:54,703 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 20:43:54,703 -  INFO -  Going through the input folder 'Granville Homes'
+2021-12-24 20:43:54,703 -  INFO -  Converting the file '6260 DeYoung.pdf'
+2021-12-24 20:44:29,097 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-24 20:44:29,097 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-24 20:44:29,098 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-24 20:44:29,098 -  INFO -  '6260 DeYoung' contains 1 page(s)
+2021-12-24 20:44:29,098 -  INFO -  Checking for 'Output\Granville Homes\'
+2021-12-24 20:44:29,098 -  INFO -  'Output\Granville Homes\' does not exist, so it is being created
+2021-12-24 20:44:46,990 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 20:50:04,883 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:50:04,883 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 20:50:04,883 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 20:50:14,937 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:50:14,937 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 20:50:14,937 -  INFO -  Pdf2image program has SUCCESSFULLY RAN
+2021-12-24 20:51:31,570 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:51:31,570 -  INFO -  Pdf2image program is STARTING...
+2021-12-24 20:51:31,570 -  INFO -  Going through the input folder 'Granville Homes'
+2021-12-24 20:51:31,570 -  INFO -  Converting the file '6260 DeYoung.pdf'
+2021-12-24 20:52:02,130 -  DEBUG -  STREAM b'IHDR' 16 13
+2021-12-24 20:52:02,130 -  DEBUG -  STREAM b'pHYs' 41 9
+2021-12-24 20:52:02,130 -  DEBUG -  STREAM b'IDAT' 62 8192
+2021-12-24 20:52:02,131 -  INFO -  '6260 DeYoung' contains 1 page(s)
+2021-12-24 20:52:02,131 -  INFO -  Checking for 'Output\Granville Homes\'
+2021-12-24 20:52:02,131 -  INFO -  'Output\Granville Homes\' does not exist, so it is being created
+2021-12-24 20:52:20,073 -  INFO -  Pdf2image program has RAN
+2021-12-24 20:55:27,586 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2021-12-24 20:55:27,586 -  INFO -  Wand program is STARTING...
+2021-12-24 20:55:27,586 -  INFO -  Going through the input folder 'Granville Homes'
+2021-12-24 20:55:27,586 -  INFO -  Converting the file '6260 DeYoung.pdf'
+2021-12-24 20:56:12,948 -  INFO -  '6260 DeYoung.pdf' contains 1 page(s)
+2021-12-24 20:56:12,948 -  INFO -  Checking for 'Output\Granville Homes\'
+2021-12-24 20:56:12,948 -  INFO -  'Output\Granville Homes\' does not exist, so it is being created
+2021-12-24 20:56:12,948 -  INFO -  Saving 'Output\Granville Homes\6260 DeYoung.jpg'
+2021-12-24 20:56:19,952 -  INFO -  Wand program has RAN
