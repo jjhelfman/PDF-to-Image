@@ -1,5 +1,3 @@
-# Adapted from https://gist.github.com/jimmyromanticdevil/691e97ce22f7cd43d6a9d54305344587
-
 # Import modules
 from wand.image import Image
 import os
@@ -91,9 +89,9 @@ def findToConvert(in_folder):
 # Use conditional to preventing running from module
 # and to run in CLI
 if __name__ == '__main__':
-	logging.info(f"Wand program is STARTING...")
-
+	logging.info("Wand program is STARTING...")
+ 
 	inputFolder = "Input\\"
 	findToConvert(inputFolder)
-
-	logging.info(f"Wand program has RAN")
+ 
+	logging.info("Wand program has RAN")
