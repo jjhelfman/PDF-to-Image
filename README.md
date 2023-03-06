@@ -2,7 +2,7 @@
 
 ## Change Log
 
-- **12/24/2021**: Successfully tested using Python 3.7.4
+- **12/24/2021**: Successfully tested using Python 3.7.4 and C:/Program Files/ArcGIS/Pro/bin/Python/envs/arcgispro-py3/python.exe.
 
 ## Scripts
 
