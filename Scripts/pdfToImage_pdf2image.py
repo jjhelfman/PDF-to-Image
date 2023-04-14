@@ -5,7 +5,7 @@ import re
 import logging
 from PIL import (
     Image,
-)  # Python Imaging Library. Pillow is just a repackaged, updated version of PIL, because the original maintainers of the PIL stopped working on it a long time ago.
+)  # Python Imaging Library
 
 # Define vars/params
 Image.MAX_IMAGE_PIXELS = None
@@ -61,7 +61,7 @@ def convert(inputFolder, subfolder, filepdf):
         logging.info(f"Checking for 'Output\\{subfolder}\\'")
         if not os.path.exists(out_path):
             logging.info(
-                f"'Output\\{subfolder}\\' does not exist, so it is being created"
+                f"'Output\\{subfolder}\\' does not exist, it's being created"
             )
             os.makedirs(out_path)
 
@@ -81,7 +81,7 @@ def findToConvert(in_folder):
     Searches through each subfolder in the "Input" folder
     and passes each pdf file to convert()
     Args:
-            in_foler: The Input folder, as defined in the main block below (inputFolder var)
+            in_folder: The Input folder, containing PDFs
     Returns:
             N/A
     """
@@ -111,7 +111,7 @@ def findToConvert(in_folder):
 # and to run in CLI
 if __name__ == "__main__":
     logging.info("Pdf2image program is STARTING...")
-    
+
     findToConvert(inputFolder)
-    
+
     logging.info("Pdf2image program has RAN")

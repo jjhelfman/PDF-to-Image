@@ -17,7 +17,7 @@
     - 300 res : ~ 2 sec per pg (much lower quality)
 
 2. pdfToImage_pdf2image.py uses the pdf2image and Pillow modules, as well as the Poppler library. This script converts to PNG format.
-    > This script may be more difficult to use due to the separate installation of the Poppler library. 
+    > This script may be more difficult to use due to the separate installation of the Poppler library and imaging libraries. Pillow is just a repackaged, updated version of the Python Imaging Library (PIL), because the original maintainers of the PIL stopped working on it a long time ago.
     > This script should only be ran if PNG outputs are needed - the script may perform a couple seconds faster per page than the wand script. 
 
 ## Instructions
