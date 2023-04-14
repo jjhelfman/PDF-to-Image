@@ -537,3 +537,125 @@
 2021-12-24 20:56:12,948 -  INFO -  Saving 'Output\Granville Homes\6260 DeYoung.jpg'
 2021-12-24 20:56:19,952 -  INFO -  Wand program has RAN
 
+
+2023-03-06 13:50:39,649 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-03-06 13:50:39,649 -  INFO -  Pdf2image program is STARTING...
+2023-03-06 13:50:39,649 -  INFO -  Going through the input folder 'As-Builts 1'
+2023-03-06 13:50:39,649 -  INFO -  Converting the file '4A 1st Flr B&W.pdf'
+2023-03-06 13:50:43,603 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-03-06 13:50:43,603 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-03-06 13:50:43,603 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-03-06 13:50:43,603 -  INFO -  '4A 1st Flr B&W' contains 1 page(s)
+2023-03-06 13:50:43,603 -  INFO -  Checking for 'Output\As-Builts 1\'
+2023-03-06 13:50:43,603 -  INFO -  'Output\As-Builts 1\' does not exist, so it is being created
+2023-03-06 13:50:45,544 -  INFO -  Converting the file '4B 1st Flr Color.pdf'
+2023-03-06 13:50:49,622 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-03-06 13:50:49,623 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-03-06 13:50:49,623 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-03-06 13:50:49,623 -  INFO -  '4B 1st Flr Color' contains 1 page(s)
+2023-03-06 13:50:49,623 -  INFO -  Checking for 'Output\As-Builts 1\'
+2023-03-06 13:50:51,739 -  INFO -  Going through the input folder 'As-Builts 2'
+2023-03-06 13:50:51,740 -  INFO -  Converting the file '5A 2nd Flr B&W.pdf'
+2023-03-06 13:50:55,170 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-03-06 13:50:55,170 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-03-06 13:50:55,170 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-03-06 13:50:55,170 -  INFO -  '5A 2nd Flr B&W' contains 1 page(s)
+2023-03-06 13:50:55,170 -  INFO -  Checking for 'Output\As-Builts 2\'
+2023-03-06 13:50:55,171 -  INFO -  'Output\As-Builts 2\' does not exist, so it is being created
+2023-03-06 13:50:57,059 -  INFO -  Converting the file '5B 2nd Flr Color.pdf'
+2023-03-06 13:51:00,431 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-03-06 13:51:00,431 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-03-06 13:51:00,431 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-03-06 13:51:00,431 -  INFO -  '5B 2nd Flr Color' contains 1 page(s)
+2023-03-06 13:51:00,431 -  INFO -  Checking for 'Output\As-Builts 2\'
+2023-03-06 13:51:02,245 -  INFO -  Pdf2image program has RAN
+2023-03-06 13:51:29,752 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-03-06 13:51:29,752 -  INFO -  Wand program is STARTING...
+2023-03-06 13:51:29,752 -  INFO -  Going through the input folder 'As-Builts 1'
+2023-03-06 13:51:29,752 -  INFO -  Converting the file '4A 1st Flr B&W.pdf'
+2023-03-06 13:51:34,929 -  INFO -  '4A 1st Flr B&W.pdf' contains 1 page(s)
+2023-03-06 13:51:34,930 -  INFO -  Checking for 'Output\As-Builts 1\'
+2023-03-06 13:51:34,930 -  INFO -  Saving 'Output\As-Builts 1\4A 1st Flr B&W.jpg'
+2023-03-06 13:51:35,617 -  INFO -  Converting the file '4B 1st Flr Color.pdf'
+2023-03-06 13:51:40,768 -  INFO -  '4B 1st Flr Color.pdf' contains 1 page(s)
+2023-03-06 13:51:40,768 -  INFO -  Checking for 'Output\As-Builts 1\'
+2023-03-06 13:51:40,769 -  INFO -  Saving 'Output\As-Builts 1\4B 1st Flr Color.jpg'
+2023-03-06 13:51:41,443 -  INFO -  Going through the input folder 'As-Builts 2'
+2023-03-06 13:51:41,443 -  INFO -  Converting the file '5A 2nd Flr B&W.pdf'
+2023-03-06 13:51:45,491 -  INFO -  '5A 2nd Flr B&W.pdf' contains 1 page(s)
+2023-03-06 13:51:45,491 -  INFO -  Checking for 'Output\As-Builts 2\'
+2023-03-06 13:51:45,491 -  INFO -  Saving 'Output\As-Builts 2\5A 2nd Flr B&W.jpg'
+2023-03-06 13:51:46,200 -  INFO -  Converting the file '5B 2nd Flr Color.pdf'
+2023-03-06 13:51:50,163 -  INFO -  '5B 2nd Flr Color.pdf' contains 1 page(s)
+2023-03-06 13:51:50,163 -  INFO -  Checking for 'Output\As-Builts 2\'
+2023-03-06 13:51:50,163 -  INFO -  Saving 'Output\As-Builts 2\5B 2nd Flr Color.jpg'
+2023-03-06 13:51:50,779 -  INFO -  Wand program has RAN
+2023-04-14 10:13:36,452 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-04-14 10:13:36,452 -  INFO -  Pdf2image program is STARTING...
+2023-04-14 10:13:36,452 -  INFO -  Going through the input folder 'PDFs'
+2023-04-14 10:13:36,452 -  INFO -  Converting the file '1.1 Otay Mesa.pdf'
+2023-04-14 10:15:03,016 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-04-14 10:15:03,016 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-04-14 10:15:03,016 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-04-14 10:15:03,016 -  INFO -  '1.1 Otay Mesa' contains 1 page(s)
+2023-04-14 10:15:03,016 -  INFO -  Checking for 'Output\PDFs\'
+2023-04-14 10:15:03,016 -  INFO -  'Output\PDFs\' does not exist, so it is being created
+2023-04-14 10:15:18,447 -  INFO -  Converting the file '1.2 Fiesta Island.pdf'
+2023-04-14 10:16:48,946 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-04-14 10:16:48,946 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-04-14 10:16:48,946 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-04-14 10:16:48,946 -  INFO -  '1.2 Fiesta Island' contains 1 page(s)
+2023-04-14 10:16:48,946 -  INFO -  Checking for 'Output\PDFs\'
+2023-04-14 10:17:05,127 -  INFO -  Pdf2image program has RAN
+2023-04-14 10:58:05,508 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-04-14 10:58:05,509 -  INFO -  Wand program is STARTING...
+2023-04-14 10:58:05,509 -  INFO -  Going through the input folder 'PDFs'
+2023-04-14 10:58:05,509 -  INFO -  Converting the file '1.1 Otay Mesa.pdf'
+2023-04-14 10:58:32,401 -  INFO -  '1.1 Otay Mesa.pdf' contains 1 page(s)
+2023-04-14 10:58:32,401 -  INFO -  Checking for 'Output\PDFs\'
+2023-04-14 10:58:32,401 -  INFO -  Saving 'Output\PDFs\1.1 Otay Mesa.jpg'
+2023-04-14 10:58:33,662 -  INFO -  Converting the file '1.2 Fiesta Island.pdf'
+2023-04-14 10:59:07,482 -  INFO -  '1.2 Fiesta Island.pdf' contains 1 page(s)
+2023-04-14 10:59:07,482 -  INFO -  Checking for 'Output\PDFs\'
+2023-04-14 10:59:07,482 -  INFO -  Saving 'Output\PDFs\1.2 Fiesta Island.jpg'
+2023-04-14 10:59:08,932 -  INFO -  Wand program has RAN
+2023-04-14 11:00:43,706 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-04-14 11:00:43,706 -  INFO -  Pdf2image program is STARTING...
+2023-04-14 11:00:43,706 -  INFO -  Going through the input folder 'PDFs'
+2023-04-14 11:00:43,706 -  INFO -  Converting the file '1.1 Otay Mesa.pdf'
+2023-04-14 11:02:04,171 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-04-14 11:02:04,171 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-04-14 11:02:04,171 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-04-14 11:02:04,171 -  ERROR -  Image size (52593750 pixels) exceeds limit of 2000 pixels, could be decompression bomb DOS attack.
+2023-04-14 11:02:04,173 -  INFO -  Converting the file '1.2 Fiesta Island.pdf'
+2023-04-14 11:03:32,391 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-04-14 11:03:32,391 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-04-14 11:03:32,391 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-04-14 11:03:32,391 -  ERROR -  Image size (52593750 pixels) exceeds limit of 2000 pixels, could be decompression bomb DOS attack.
+2023-04-14 11:03:32,395 -  INFO -  Pdf2image program has RAN
+2023-04-14 11:05:01,765 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-04-14 11:05:01,765 -  INFO -  Pdf2image program is STARTING...
+2023-04-14 11:05:01,765 -  INFO -  Going through the input folder 'PDFs'
+2023-04-14 11:05:01,765 -  INFO -  Converting the file '1.1 Otay Mesa.pdf'
+2023-04-14 11:06:22,316 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-04-14 11:06:22,316 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-04-14 11:06:22,316 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-04-14 11:06:22,316 -  ERROR -  Image size (52593750 pixels) exceeds limit of 2000 pixels, could be decompression bomb DOS attack.
+2023-04-14 11:06:22,326 -  INFO -  Converting the file '1.2 Fiesta Island.pdf'
+2023-04-14 11:07:54,830 -  DEBUG -  STREAM b'IHDR' 16 13
+2023-04-14 11:07:54,830 -  DEBUG -  STREAM b'pHYs' 41 9
+2023-04-14 11:07:54,830 -  DEBUG -  STREAM b'IDAT' 62 8192
+2023-04-14 11:07:54,830 -  ERROR -  Image size (52593750 pixels) exceeds limit of 2000 pixels, could be decompression bomb DOS attack.
+2023-04-14 11:07:54,830 -  INFO -  Pdf2image program has RAN
+2023-04-14 11:08:44,001 -  INFO -  The current working directory is C:\Users\User\Desktop\GIS\PDF to Image
+2023-04-14 11:08:44,002 -  INFO -  Wand program is STARTING...
+2023-04-14 11:08:44,002 -  INFO -  Going through the input folder 'PDFs'
+2023-04-14 11:08:44,002 -  INFO -  Converting the file '1.1 Otay Mesa.pdf'
+2023-04-14 11:08:52,123 -  INFO -  '1.1 Otay Mesa.pdf' contains 1 page(s)
+2023-04-14 11:08:52,123 -  INFO -  Checking for 'Output\PDFs\'
+2023-04-14 11:08:52,123 -  INFO -  Saving 'Output\PDFs\1.1 Otay Mesa.jpg'
+2023-04-14 11:08:52,389 -  INFO -  Converting the file '1.2 Fiesta Island.pdf'
+2023-04-14 11:09:04,555 -  INFO -  '1.2 Fiesta Island.pdf' contains 1 page(s)
+2023-04-14 11:09:04,555 -  INFO -  Checking for 'Output\PDFs\'
+2023-04-14 11:09:04,555 -  INFO -  Saving 'Output\PDFs\1.2 Fiesta Island.jpg'
+2023-04-14 11:09:04,822 -  INFO -  Wand program has RAN

@@ -1,8 +1,13 @@
 # PDF to Image 
 
-## Change Log
+## Change Log/Testing
 
-- **12/24/2021**: Successfully tested using Python 3.7.4 and C:/Program Files/ArcGIS/Pro/bin/Python/envs/arcgispro-py3/python.exe.
+- **04/14/2023**: Successfully tested using:
+    - Python 3.9 (newer releases should work, tested successfully since Python 3.6)
+    - Python interpreter: C:/Program Files/ArcGIS/Pro/bin/Python/envs/arcgispro-py3/python.exe
+    - Image modules installed in C:/Program Files: 
+        - ImageMagick-7.0.10-Q16
+        - Poppler 21.11.0
 
 ## Scripts
 
@@ -20,13 +25,19 @@
 1. Install the required dependencies via `pip install -r requirements.txt`
     - This requirements file was generated using pipreqs (https://pypi.org/project/pipreqs/)
 
-2. Place the PDFs in appropriately named folder(s) in the directory, "\PDF to Image\Input". 
+2.  For the wand script, install ImageMagick-7.0.10-Q16 in C:/Program Files. For the pdf2image script, install Poppler 21.11.0 in C:/Program Files.
 
-3. Run "pdfToImage_wand.py" by double clicking it or running from an IDE. 
+3. Place the PDFs in appropriately named folder(s) in the directory, "\PDF to Image\Input".
 
-    - If a PNG file is required or if desired results cannot be achieved with the wand script, try running "pdfToImage_pdf2image.py". Before running it, make sure the **popplerPath variable** is correctly specified (see Debugging section below for more info). 
+4. Set image resolution to your desired pixel number. 750 yields a high quality image and 300 yields a lower quality image:
+    - For the wand script, set the resolution paramater on line 35: `with Image(filename=f"Input\\{subfolder}\\{filepdf}", resolution=750) as img:`
+    - For the pdf2image script, set the dpi parameter on line 49: `dpi=750,`
 
-4. If only parts of an image are needed, the image can be cropped using a program like Paint 3D. 
+5. Run "pdfToImage_wand.py" by double clicking it or running from an IDE. 
+
+    - If a PNG file is required or if desired results cannot be achieved with the wand script, try running "pdfToImage_pdf2image.py". Before running it, make sure the Poppler installed in your Program Files directory, as defined by line 13: `popplerPath = "C:\\Program Files\\poppler-21.11.0\\Library\\bin"` 
+
+6. If only parts of an image are needed, the image can be cropped using a program like Paint 3D or see the API documentation in the Debugging section below. 
 
 ## Cloning and Set-Up 
 
